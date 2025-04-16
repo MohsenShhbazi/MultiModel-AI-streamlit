@@ -37,8 +37,8 @@ warnings.filterwarnings('ignore')
 
 
 load_dotenv()
-GOOGLE_API_KEY = "AIzaSyD9QQd80bEbw4ZIjd5Q5RhZZ1Vf3EMDVKY"
-ASSEMBLY_AI_API = "a780dffafa21462aa994f73cda689715"
+GOOGLE_API_KEY = your_api
+ASSEMBLY_AI_API = your_api
 # @title
 prompts= """ You will be provided with a query and relevant documents retrieved from a database. Your task is to answer the query creatively and insightfully based on the information within the documents.  Do not copy directly from the documents. Synthesize the information and present it in a novel and engaging way.
 
