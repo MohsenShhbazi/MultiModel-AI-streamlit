@@ -35,11 +35,3 @@ In today's fast-paced world, **scientific papers, video lectures, and podcasts**
 - **Custom Embedding Functions** – For document and query embeddings
 
 ---
-
-## 📂 How to Use
-
-### 1. Clone the repo
-
-```bash
-git clone https://github.com/your-username/streamlit-multimodal-rag-app.git
-cd streamlit-multimodal-rag-app
