@@ -35,8 +35,9 @@ In today's fast-paced world, **scientific papers, video lectures, and podcasts**
 - **Custom Embedding Functions** – For document and query embeddings
 
 ---
-<img src="https://github.com/user-attachments/assets/0b571750-3185-423b-9c03-bd1f4a900333" alt="sc4" width="600" height="400">
+
 
 #Here is screenshot of webapplication
 
+![sc4](https://github.com/user-attachments/assets/93a653c0-00b0-4d5e-a9a2-95d923d5c0e3)
 
