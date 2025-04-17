@@ -37,7 +37,7 @@ In today's fast-paced world, **scientific papers, video lectures, and podcasts**
 ---
 
 
-#Here is screenshot of webapplication
-<img src="https://github.com/user-attachments/assets/93a653c0-00b0-4d5e-a9a2-95d923d5c0e3" alt="sc4" width="600" height="400">
+# Here is screenshot of webapplication
+![image (3)](https://github.com/user-attachments/assets/df797d5e-dd6c-4cab-80c6-92de49c33105)
 
 
